@@ -1,2 +1,51 @@
-# start-here
-Free resources, AI newsletter, tools, and starting points from Ray. Zero cost entry into the ecosystem.
+# Start Here — Free Resources from Ray
+
+Everything below is **completely free**. No account required beyond GitHub. No credit card. No upsell walls.
+
+---
+
+## 1. Free Daily AI Newsletter
+
+**[NEWS](https://github.com/ram133/NEWS)** — High-signal AI updates every day at 6 AM ChST.
+
+- Forever free
+- No spam
+- Supported only by relevant product ads
+
+**Easiest way to follow:** [Watch the repo](https://github.com/ram133/NEWS/subscription)  
+Or visit the [live site](https://ram133.github.io/NEWS/)
+
+---
+
+## 2. Free Tools & Starters
+
+| Resource | What you get | Link |
+|----------|--------------|------|
+| **Product Kit** | Monetization-ready repo template + automation | [product-kit](https://github.com/ram133/product-kit) |
+| **Automation Patterns** | Copy-paste GitHub Actions (daily jobs, stale issues, welcomes, etc.) | [automation](https://github.com/ram133/automation) |
+| **Prompt Pack** | High-signal free prompts | [prompt-pack](https://github.com/ram133/prompt-pack) |
+| **GROK** | Personal AI Agent Toolkit (open source) | [GROK](https://github.com/ram133/GROK) |
+| **Digital Factory** | System for shipping digital products | [digital_factory](https://github.com/ram133/digital_factory) |
+
+---
+
+## 3. Want Help Building?
+
+When you’re ready for live 1-on-1 help (agents, automation, prompt systems, product launches):
+
+→ **[services](https://github.com/ram133/services)**  
+$1 per minute · Pay only for time used · Free tools stay free
+
+---
+
+## Contact (also free)
+
+| Method | Details |
+|--------|---------|
+| **Phone / Signal** | +1 (671) 685-9138 · +1 (671) 456-6963 |
+| **Email** | 3659745@gmail.com · crh2123@icloud.com |
+| **Website** | [ray.services](https://ray.services) |
+
+---
+
+**Star the repos you find useful.** Everything here runs on free GitHub infrastructure only.
