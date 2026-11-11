@@ -2,6 +2,8 @@
 
 Everything below is **completely free**. No account required beyond GitHub. No credit card. No upsell walls.
 
+These are the same tools, patterns, and systems I use when working with clients on AI automation, agents, and digital products.
+
 ---
 
 ## 1. Free Daily AI Newsletter
@@ -29,9 +31,9 @@ Or visit the [live site](https://ram133.github.io/NEWS/)
 
 ---
 
-## 3. Want Help Building?
+## 3. Ready for Live Help?
 
-When you’re ready for live 1-on-1 help (agents, automation, prompt systems, product launches):
+When you want these systems built or customized with you in real time:
 
 → **[services](https://github.com/ram133/services)**  
 $1 per minute · Pay only for time used · Free tools stay free
